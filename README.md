@@ -1,5 +1,5 @@
-# Hi there 👋
-## Looking for somethong awesome?
+# Hi there 👋 I'm Jose Santisteban 
+## Currently I'm an student of computer science in the Universidad del Valle de Guatemala
 
 <!--
 **Jskenpo/Jskenpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm currently working on multiple proyects from college and you're free to look at all of them 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jskenpo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskenpo&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
