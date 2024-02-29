@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Jose Santisteban 
-## Currently I'm an student of computer science in the Universidad del Valle de Guatemala
+## Currently I'm a student of computer science in the Universidad del Valle de Guatemala
 
 <!--
 **Jskenpo/Jskenpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
