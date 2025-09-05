@@ -1,25 +1,30 @@
-# Hi there 👋 I'm Jose Santisteban 
-## Computer science student in Universidad del Valle de Guatemala
+# 👋 Hi, I'm Jose Santisteban  
 
-<!--
-**Jskenpo/Jskenpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Universidad del Valle de Guatemala  
+💻 Passionate about Backend Development, Databases & Cloud Infrastructure  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **AWS, FastAPI, and ManyChat automation**  
+- 🔭 Working on multiple projects including **AppointMe** (SMB time management platform) and **AI Chatbot Solutions for Hotels**  
+- ⚡ Interested in **cybersecurity**, **AI agents**, and building **scalable SaaS platforms**  
+- 💬 Ask me about **backend development, databases, or ManyChat flows**  
 
-I'm currently working on multiple proyects from college and you're free to look at all of them 
+---
 
+## 📊 GitHub Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jskenpo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskenpo&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jskenpo&show_icons=true&theme=radical)](https://github.com/jskenpo)  
+<br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskenpo&layout=donut&theme=radical)](https://github.com/jskenpo)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](www.linkedin.com/in/josé-pablo-santisteban-vargas)  
+- ✉️ Email: santistebanjose2002@gmail.com   
+
+---
+✨ *Always building, always learning.*  
