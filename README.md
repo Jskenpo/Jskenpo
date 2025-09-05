@@ -23,7 +23,7 @@
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/josé-pablo-santisteban-vargas)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/josé-pablo-santisteban-vargas)  
 - ✉️ Email: santistebanjose2002@gmail.com   
 
 ---
