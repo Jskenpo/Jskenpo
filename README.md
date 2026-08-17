@@ -71,12 +71,29 @@ I enjoy working on projects involving:
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jskenpo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskenpo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📅 AppointMe
+
+A time management and appointment platform designed for small and medium-sized businesses.
+
+**Tech:** `React` `Node.js` `REST APIs` `Database Design`
+
+---
+
+### 🤖 AI & Automation
+
+Backend integrations and conversational automation solutions using AI, APIs, and messaging platforms.
+
+**Tech:** `Python` `FastAPI` `OpenAI` `ManyChat`
+
+---
+
+### ☁️ Backend & Cloud
+
+Backend services, API integrations, and cloud deployments focused on reliability and scalability.
+
+**Tech:** `Go` `FastAPI` `AWS` `Docker` `Nginx`
 
 ---
 
